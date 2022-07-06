@@ -1,6 +1,6 @@
 from msilib.schema import File
 import socket
-IP = "127.0.0.1"
+IP = "49.15.202.152"
 PORT = 4455
 ADDR = (IP, PORT)
 FORMAT = "utf-8"
